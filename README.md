@@ -5,6 +5,8 @@
 ## 📌 Overview
 This project analyzes financial, demographic, geographic, and construction data to identify optimal locations for establishing a startup investment firm in Michigan.  
 
+https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Site%20Selection%20for%20Investment%20Firm.pdf
+
 Data sources include:
 - Financial Industry Regulatory Authority (FINRA) study (2015)
 - U.S. Census Bureau datasets
