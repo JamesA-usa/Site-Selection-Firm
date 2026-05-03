@@ -14,8 +14,6 @@ Data sources include:
 
 The analysis identifies **Oakland County** as the primary location and **Livingston County** as a secondary alternative.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/cfc5dbcf-3fcb-4a71-9c13-2a49f8bab3e6">
-
 ---
 
 ## 📊 Investment Behavior & Demographics
@@ -27,12 +25,18 @@ Key findings from the FINRA study:
 
 These factors significantly increase the likelihood of owning taxable investment accounts.
 
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Finra.png">
+
 ### Data Analysis
 Census data were joined to vector datasets representing:
 - Income
 - Education
 - Marriage rates
 - Population
+
+### Income & Education
+
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Finra.png">
 
 ### Key Insights
 - Highest % of $50K+ households: **Oakland & Livingston Counties**
