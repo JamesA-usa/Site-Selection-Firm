@@ -34,9 +34,17 @@ Census data were joined to vector datasets representing:
 - Marriage rates
 - Population
 
-### Income & Education
+### Education & Income
 
 <img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map1.jpg">
+
+## Marriage & Income
+
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map2.jpg">
+
+## Population by Counties
+
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map3.jpg">
 
 ### Key Insights
 - Highest % of $50K+ households: **Oakland & Livingston Counties**
@@ -73,8 +81,15 @@ Census data were joined to vector datasets representing:
 ## 🗺️ Site Selection Methodology
 
 ### Data Layers Used:
+
 - Slope (USGS DEM – 10m resolution)
+  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map4.jpg">
+  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map5.jpg">
+
 - Land Cover (2011)
+  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map6.jpg">
+  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map7.jpg">
+
 - Road Networks (Michigan GIS data)
 
 ### Slope Criteria
@@ -107,6 +122,8 @@ Converted to raster for analysis.
 - Classified:
   - Suitable areas
   - Non-suitable areas
+  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map8.jpg">
+  <img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map9.jpg">
 
 ---
 
