@@ -36,7 +36,7 @@ Census data were joined to vector datasets representing:
 
 ### Income & Education
 
-<img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Finra.png">
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Map1.jpg">
 
 ### Key Insights
 - Highest % of $50K+ households: **Oakland & Livingston Counties**
